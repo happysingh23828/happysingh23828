@@ -7,8 +7,8 @@
 - 🔭 &nbsp;&nbsp; I’m currently working on [Talview Candidate App](https://play.google.com/store/apps/details?id=com.talview.candidate&hl=en_IN&gl=US).
 - 🌱 &nbsp;&nbsp; Running a Youtube Channel and blog as [Androchef](https://www.youtube.com/channel/UCILhpbLSFkGzsiCYAeR30DA).
 - 💬 &nbsp;&nbsp; Open for discussions on Android related technologies.
-- 📫 How to reach me **happy.androchef@gmail.com**
-- ⚡  Little bit exploring on iOS development.
+- 📫 &nbsp;&nbsp; How to reach me **happy.androchef@gmail.com**
+- ⚡  &nbsp;&nbsp; Little bit exploring on iOS development.
 
 ### Me on Internet:
 
