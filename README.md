@@ -1,18 +1,18 @@
-### Hi, I'm [Happy Singh](https://androchef.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm [Happy Singh](http://happysingh.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *An Android developer, Self Taught Developer   | Open Source lover*
 
 ![](https://komarev.com/ghpvc/?username=happysingh23828&color=brightgreen&style=flat)
 
 - 🔭 &nbsp;&nbsp; I’m currently working on [Talview Candidate App](https://play.google.com/store/apps/details?id=com.talview.candidate&hl=en_IN&gl=US).
-- 🌱 &nbsp;&nbsp; Running a Youtube Channel and blog as [Androchef](https://www.youtube.com/channel/UCILhpbLSFkGzsiCYAeR30DA).
+- 🌱 &nbsp;&nbsp; Running a Youtube Channel and blog as [Mr. Happy DEV](https://www.youtube.com/channel/UCILhpbLSFkGzsiCYAeR30DA).
 - 💬 &nbsp;&nbsp; Open for discussions on Android related technologies.
 - 📫 &nbsp;&nbsp; How to reach me **happy.androchef@gmail.com**
 - ⚡  &nbsp;&nbsp; Little bit exploring on iOS development.
 
 ### Me on Internet:
 
-[<img align="left" alt="androchef.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="happysingh.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="happy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="happy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="happy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
