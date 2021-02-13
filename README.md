@@ -1,6 +1,6 @@
 ### Hi, I'm [Happy Singh](http://happysingh.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-*An Android developer, Self Taught Developer   | Open Source lover*
+*An Android developer | Self Taught Developer   | Open Source lover*
 
 ![](https://komarev.com/ghpvc/?username=happysingh23828&color=brightgreen&style=flat)
 
@@ -35,7 +35,7 @@
 [<img align="left" alt="happy | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][website]
 [<img align="left" alt="happy | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
 
-[website]: https://androchef.com
+[website]: http://happysingh.dev/
 [twitter]: https://twitter.com/happysingh23828
-[instagram]: https://www.instagram.com/andro_chef/
+[instagram]: https://www.instagram.com/singh_happy20/
 [linkedin]: https://www.linkedin.com/in/happpysingh23828/
