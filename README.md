@@ -61,7 +61,7 @@
 
 [website]: http://happysingh.dev/
 [twitter]: https://twitter.com/happysingh23828
-[instagram]: https://www.instagram.com/singh_happy20/
+[instagram]: https://www.instagram.com/happysingh.dev/
 [linkedin]: https://www.linkedin.com/in/happpysingh23828/
 [stackoverflow]: https://stackoverflow.com/users/11233871/happy-singh?tab=profile
 [youtube]: https://www.youtube.com/channel/UCILhpbLSFkGzsiCYAeR30DA
