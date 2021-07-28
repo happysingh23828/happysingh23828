@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp;&nbsp; I’m currently working on [BitClass - Online Live classes](https://play.google.com/store/apps/details?id=com.bitclass.android).
 - 🌱 &nbsp;&nbsp; Running a Youtube Channel and blog as [Mr. Happy DEV](https://www.youtube.com/channel/UCILhpbLSFkGzsiCYAeR30DA).
-- 💬 &nbsp;&nbsp; Talk to me about Android, Kotlin and books..
+- 💬 &nbsp;&nbsp; Talk to me about Android, Kotlin and books.
 - 📫 &nbsp;&nbsp; Connect me: **happy.androchef@gmail.com**.
 
 ### Me on Internet:
@@ -25,6 +25,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Android Discussions](https://www.youtube.com/watch?v=8PTTY4XTlLU)
 - [Rx-Java Crash Course : Beginners](https://www.youtube.com/watch?v=CHtxplngjN0&list=PLYbZORu136FYVHZG-IZcubFo5fMtp9IRU)
 - [QR Code Scanner - For Kotlin Beginners](https://www.youtube.com/watch?v=PUbyHvQ2Ehg&list=PLYbZORu136FYZ8ZVBBKEiw1OgpkSH9MMK)
 - [Android Libraries Demos](https://www.youtube.com/watch?v=ItdbO-yLDnY&list=PLYbZORu136FbqYZdGMvrM76znYfVZM33L)
@@ -37,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Don't repeat yourself: DRY Principle in software engineering](https://happysingh.dev/dont-repeat-yourself-dry-principle-in-software-engineering)
 - [Setup Android Boilerplate code for new project in 5 minutes](https://happysingh.dev/setup-android-new-project-with-boilerplate-code-within-5-minutes-using-github-template)
 <!-- BLOG-POST-LIST:END -->
 
